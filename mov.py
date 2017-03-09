@@ -47,8 +47,8 @@ def getMovieDownloadLink(name):
 		if href_test.startswith("magnet:?"):
 			openInWeb(href_test)
 			return
-mov = getMovieName()
-db.child("movies").set("")
+
+
 
 
  
@@ -57,18 +57,23 @@ ACCOUNT_SID = "ACa4c3ccef1ad1756610b63eac37ffa0ce"
 AUTH_TOKEN = "879040038e39074537d376416659b1e6" 
  
 client = TwilioRestClient(ACCOUNT_SID, AUTH_TOKEN) 
- 
 
-if mov != "None" and mov != "":
-	arr = mov.split(",")
-	#print arr[0]
-	for movie in arr:
-		getMovieDownloadLink(movie)
-		client.messages.create(
-    to="+17132317925", 
-    from_="+18326481563", 
-    body=str(movie)+" started Downloading!", 
-)
+while True:
+	mov = getMovieName()
+	db.child("movies").set("")
+
+
+	if mov != "None" and mov != "":
+		arr = mov.split(",")
+		#print arr[0]
+		for movie in arr:
+			getMovieDownloadLink(movie)
+			client.messages.create(
+	    to="+17132317925", 
+	    from_="+18326481563", 
+	    body=str(movie)+" started Downloading!", 
+	)
+	time.sleep(2)
 
 
 #getMovieDownloadLink(a)

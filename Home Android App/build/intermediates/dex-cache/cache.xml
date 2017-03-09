@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="6184cb25d7345e2f42869b2fdf6b7ac9ab27a5b4">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1f67235dd93fe9ffac48ab089d2aa1e9fd58b7f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d0b78c65f69ac75cc0c5f2388169c5988009ad89">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_821ff9603a87611edeff05f574b81861d860606b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_a27f317702e5a05b4be57a99da360311613aaf27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_6c7b45de949268a19151ec75564cfd11df9a42a3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_44362a7866f3c5211378ff1c419be8fc7e418b9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_85381794eabbe84c6d91bd98b0a292ed665fe4c2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_00d276db66d49b2931e131a6a9b205f4c1941302/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_4a85d2fd57d3a4cedc92fc76bad0e3df5b2836e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.6.1_dbd5e29bf45f4a16193ed3c1659ef2b533aa21bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_ab34aca52b9525d8edb2b12a3e1496725241cd19/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_ff32cdebf321e45b93d64521f6fbe4c8620c7053/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ac8365c87591065db07f7bac8551504504832cd4">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.6.1_0fa75d1023b50a5a32e0f1d7b8259341646a5c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_1e4c46b5b6daaf1fa7b962a8f3d853859c16e1b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.6.1_8b2b37b0be3d30013d05a9401173cd15811d5200/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b75ecdd04a37d31b4a0da2729fc5c558962a529b">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.6.1_e997c271f5f515e973d5bf5ec1b46c7ca744290f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_f92a3d533b7abb8787eaf58c3c8931da4bdbfac6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_e3a2ca8996b507d1116bff0ad110d8a22c8b2c32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.6.1_933dea4b7db975cffaf77a2e91a131c2d2febd32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_4f22b6d69db1af77b715caf97a2961a0314caed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.6.1_f99f3a561a7a749af03c817fe7f4f1b6269c29df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8535895f1d34942ed0c41d85b80169717f76845d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.6.1_fd3101868dea9375c18dec053876425e8b468d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_1a79817fb114348619dc0d6de713614c8ceba620/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_9990966eded9c10304324f6ce872a2fc8499811d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/abirshukla/Home/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/Users/abirshukla/Home/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.6.1_b1a5371424a5b527e4278be6b856ea33ee96af83/classes.dex" />
+    </item>
+
+</items>
